@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-community
+langchain-huggingface
+langchain-ollama
+faiss-cpu
+pymupdf
+sentence-transformers
+python-dotenv
+langchain-groq
+fastapi
+uvicorn
